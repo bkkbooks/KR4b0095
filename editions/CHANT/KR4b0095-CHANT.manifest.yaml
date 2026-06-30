@@ -1,0 +1,155 @@
+canonical_identifier: bkk:krp/KR4b0095/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR4b0095/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曹植集十卷
+  identifiers:
+    krp: KR4b0095
+  tags:
+    tls-dates: dat04500
+    tls-internal: swl
+    kr-categories: KR4b
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0095.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR4b0095_001-CHANT.yaml, hash: 'sha256:022b8c28fac89feb6cfe6865348c47d96fa7a7101c41c3700b339d8d78becc7f'}
+  - {seq: 2, filename: KR4b0095_002-CHANT.yaml, hash: 'sha256:06c41488c78c2342b09e5740d46ebe70b3d87c31b23af3ccb69ff2728210472c'}
+  - {seq: 3, filename: KR4b0095_003-CHANT.yaml, hash: 'sha256:caf9b9ca76cb743f9b6122fe3c66ff8bfc3ebadc6350b6747a0aea70dfae65eb'}
+  - {seq: 4, filename: KR4b0095_004-CHANT.yaml, hash: 'sha256:20fbdf60291809ac4d9be576f872e66512b12c883447131715cba092da1f450a'}
+  - {seq: 5, filename: KR4b0095_005-CHANT.yaml, hash: 'sha256:8476a7edf78e88de0a26b7735c9da054477e2721f628b49ce5dff56403e53ef9'}
+  - {seq: 6, filename: KR4b0095_006-CHANT.yaml, hash: 'sha256:a57a36a0cbf18fbb2827d48bbc3658c735e5c9eaf240d0c718c0294beedd79f9'}
+  - {seq: 7, filename: KR4b0095_007-CHANT.yaml, hash: 'sha256:aa969f8a211bdf0638f2de7b373874b9f8934b1890a7ec6c71a82e36a676b65b'}
+  - {seq: 8, filename: KR4b0095_008-CHANT.yaml, hash: 'sha256:db3b9873c4b98fbce667f64e1ba30e7735ba67f9a44d035573bfdee775324101'}
+  - {seq: 9, filename: KR4b0095_009-CHANT.yaml, hash: 'sha256:ef4adeca208e34c01c75f5aade90e883553a5ae7e27086b855c3f74a75d4df8a'}
+  - {seq: 10, filename: KR4b0095_010-CHANT.yaml, hash: 'sha256:626a927bf4f26cc9c6efe24ff2c21c1a8c073946256cdc6ef3ba8568bfb34ca4'}
+  - {seq: 11, filename: KR4b0095_011-CHANT.yaml, hash: 'sha256:6d4428655790df89817bc39a79e3b24fa9adfc068b5138ece195b012ee051974'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4b0095_001-CHANT.markers.yaml, hash: 'sha256:5798ba60c022401abefa26280519f9396997ae79e38aa44269aff1b9d6e584dd'}
+  - {seq: 2, role: markers, filename: assets/KR4b0095_002-CHANT.markers.yaml, hash: 'sha256:d9b0f5a5f3c6527f60f1f8263eb1a4abc9d186b90533b664c536a576a900f2d3'}
+  - {seq: 3, role: markers, filename: assets/KR4b0095_003-CHANT.markers.yaml, hash: 'sha256:257b22c26fa8718892005967bed20032453464be1e04cd12a302535f3765f463'}
+  - {seq: 4, role: markers, filename: assets/KR4b0095_004-CHANT.markers.yaml, hash: 'sha256:cecf184b0e09602cf341cecc9f4b9f92fb0eb3541776f4196eb51ca38adb1aed'}
+  - {seq: 5, role: markers, filename: assets/KR4b0095_005-CHANT.markers.yaml, hash: 'sha256:6bd565fca4de2a080e90c02f91486ff71491ff0cb8f0cf5cc2f5f8ef7d0dbd25'}
+  - {seq: 6, role: markers, filename: assets/KR4b0095_006-CHANT.markers.yaml, hash: 'sha256:20740a0f72159b7e1470537468eafb34502ac11899a104a68ae0a861bea10fb4'}
+  - {seq: 7, role: markers, filename: assets/KR4b0095_007-CHANT.markers.yaml, hash: 'sha256:2fd8ddec1ae1bf2486f98805eddf76332402f7c018b1ee1b6299edab9fe224e0'}
+  - {seq: 8, role: markers, filename: assets/KR4b0095_008-CHANT.markers.yaml, hash: 'sha256:79b8612f62afc964ec358d2e5967761a64e75d79d13076019d0970ad09e2fdc4'}
+  - {seq: 9, role: markers, filename: assets/KR4b0095_009-CHANT.markers.yaml, hash: 'sha256:c4220e6b0df84808496a20e50142765f48d3ed575ee76d58d8c5c89f7858f681'}
+  - {seq: 10, role: markers, filename: assets/KR4b0095_010-CHANT.markers.yaml, hash: 'sha256:e97841cab42cdb3ce6a7c45fc9b2b22af98a830a2d16d1a6798d07420b633606'}
+  - {seq: 11, role: markers, filename: assets/KR4b0095_011-CHANT.markers.yaml, hash: 'sha256:02d9c4bec79ee7db91f583eca7655ad837c0dc8140bf9a9339f3eac8cdde3f7d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4b0095_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 1515
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4b0095_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 1527
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4b0095_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 2307
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4b0095_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 2320
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4b0095_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 3505
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4b0095_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 3731
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4b0095_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 2046
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4b0095_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 5208
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR4b0095_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 8696
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR4b0095_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 4778
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR4b0095_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 9081
+  label: 附錄
+  type: section
+  level: 1
+hash: sha256:025759b9ed19ff2753166c78ee6aa476eb25b5b67804d01d04ab123aeed4f547
